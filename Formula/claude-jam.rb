@@ -1,8 +1,8 @@
 class ClaudeJam < Formula
   desc "Fancy tmux window switcher and TUI dashboard for modern agentic workflows"
   homepage "https://github.com/mightykho/claude-jam"
-  url "https://github.com/mightykho/claude-jam/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "6fb5ec51c9fb1dc3a809d9cb0e432f52591952e383374268f926532224564c9c"
+  url "https://github.com/mightykho/claude-jam/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "2f0bcd1177c6996d27d19cc4b17af0ee7d59bde4adf4aeeef166d6e113d63a50"
   license "MIT"
   head "https://github.com/mightykho/claude-jam.git", branch: "master"
 
